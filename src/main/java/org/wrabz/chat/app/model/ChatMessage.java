@@ -10,6 +10,6 @@ public class ChatMessage {
 
 
     private Long id;
-    private String message;
+    private String content;
     private String sender;
 }
